@@ -1,2 +1,0 @@
-# cryptel-main
-WIP Page
